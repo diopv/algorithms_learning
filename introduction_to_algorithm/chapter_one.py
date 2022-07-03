@@ -6,5 +6,5 @@ def my_print():
     return 1
 
 my_print()
-
+print(1)
 
